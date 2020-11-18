@@ -30,7 +30,7 @@ body {
 
 .info {
   height: 55vh;
-  background: url("src/img/fon.jpg") center center no-repeat;
+  background: url("img/fon.jpg") center center no-repeat;
   background-blend-mode: multiply;
   background-color: #484747;
   border: 2px solid #1f1f1f;
